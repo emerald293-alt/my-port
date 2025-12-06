@@ -36,7 +36,7 @@ export function Hero() {
   const defaultSocialLinks = [{"name":"Instagram","icon":"instagram","url":"https://instagram.com/username"},{"name":"YouTube","icon":"youtube","url":"https://youtube.com/@username"}]
   
   const defaultInfo = {
-    greeting: "안녕하세요,",
+    greeting: "안녕하세요!!!",
     name: "이정렬",
     title: "단부건 35기 4학기 재학생입니다",
     description: "한국토지주택공사에서 근무합니다.",
